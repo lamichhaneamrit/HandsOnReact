@@ -1,0 +1,502 @@
+
+[
+    {
+        "MITARBEITER": "AL",
+        "POOL": 54,
+        "NAME": "Lamichhane, Amrit",
+        "NEBENSTELLE": "149",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14215"
+    },
+    {
+        "MITARBEITER": "AS",
+        "POOL": 11,
+        "NAME": "Smolenski, Alexander",
+        "NEBENSTELLE": "348",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11940"
+    },
+    {
+        "MITARBEITER": "BG",
+        "POOL": 53,
+        "NAME": "Graf-Netzbandt, Benjamin",
+        "NEBENSTELLE": "322",
+        "status": "Krank",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14072"
+    },
+    {
+        "MITARBEITER": "BO",
+        "POOL": 51,
+        "NAME": "Hansen, Boie",
+        "NEBENSTELLE": "225",
+        "status": "Urlaub",
+        "KOMMENTAR": "Tel. erreichbar",
+        "PERSONALNR": "13005"
+    },
+    {
+        "MITARBEITER": "BS",
+        "POOL": 11,
+        "NAME": "Sterl, Björn",
+        "NEBENSTELLE": "356",
+        "status": "Urlaub",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11235"
+    },
+    {
+        "MITARBEITER": "BT",
+        "POOL": 53,
+        "NAME": "Blanke, Tobias",
+        "NEBENSTELLE": "318",
+        "status": "Homeoffice",
+        "PERSONALNR": "11240"
+    },
+    {
+        "MITARBEITER": "BW",
+        "POOL": 53,
+        "NAME": "Wiech, Benjamin",
+        "NEBENSTELLE": "153",
+        "status": "Homeoffice",
+        "PERSONALNR": "11395"
+    },
+    {
+        "MITARBEITER": "CG",
+        "POOL": 53,
+        "NAME": "Gebert, Carsten",
+        "NEBENSTELLE": "152",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14014"
+    },
+    {
+        "MITARBEITER": "DK",
+        "POOL": 54,
+        "NAME": "Kulbach, Daniel",
+        "NEBENSTELLE": "308",
+        "status": "Krank",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11112"
+    },
+    {
+        "MITARBEITER": "DN",
+        "POOL": 11,
+        "NAME": "David Neumann",
+        "NEBENSTELLE": "354",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14130"
+    },
+    {
+        "MITARBEITER": "DO",
+        "POOL": 53,
+        "NAME": "Dogdu, Serkan",
+        "NEBENSTELLE": "144",
+        "status": "Homeoffice",
+        "PERSONALNR": "11990"
+    },
+    {
+        "MITARBEITER": "ER",
+        "POOL": 53,
+        "NAME": "Ramazanoglu, Enis",
+        "NEBENSTELLE": "334",
+        "status": "im Hause (Hamburg)",
+        "KOMMENTAR": "seit 7:30",
+        "PERSONALNR": "14200"
+    },
+    {
+        "MITARBEITER": "FI",
+        "POOL": 52,
+        "NAME": "Fintzen, Ingo",
+        "NEBENSTELLE": "344",
+        "status": "im Hause (Hamburg)",
+        "KOMMENTAR": "7:00",
+        "PERSONALNR": "11067"
+    },
+    {
+        "MITARBEITER": "FR",
+        "POOL": 51,
+        "NAME": "Fischer, Andreas",
+        "NEBENSTELLE": "304",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14060"
+    },
+    {
+        "MITARBEITER": "GR",
+        "POOL": 54,
+        "NAME": "Grupen, Claudius",
+        "NEBENSTELLE": "311",
+        "status": "Homeoffice",
+        "PERSONALNR": "11390"
+    },
+    {
+        "MITARBEITER": "GW",
+        "POOL": 51,
+        "NAME": "Grawunder, Udo",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11068"
+    },
+    {
+        "MITARBEITER": "HA",
+        "POOL": 11,
+        "NAME": "Haupt, Benno",
+        "NEBENSTELLE": "148",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14068"
+    },
+    {
+        "MITARBEITER": "HE",
+        "POOL": 11,
+        "NAME": "Hennig, Christian",
+        "NEBENSTELLE": "313",
+        "status": "Homeoffice",
+        "PERSONALNR": "11984"
+    },
+    {
+        "MITARBEITER": "HG",
+        "POOL": 53,
+        "NAME": "Hengst, Egbert",
+        "NEBENSTELLE": "372",
+        "status": "Urlaub",
+        "KOMMENTAR": "Urlaubswünsche (XU01,11,15) (8 Std.)",
+        "PERSONALNR": "11056"
+    },
+    {
+        "MITARBEITER": "HL",
+        "POOL": 41,
+        "NAME": "Lübcke, Helge",
+        "NEBENSTELLE": "104",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14020"
+    },
+    {
+        "MITARBEITER": "HN",
+        "POOL": 61,
+        "NAME": "Hansen, Peter",
+        "NEBENSTELLE": "224",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "13001"
+    },
+    {
+        "MITARBEITER": "HO",
+        "POOL": 61,
+        "NAME": "Hansen, Maria",
+        "NEBENSTELLE": "260",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "13010"
+    },
+    {
+        "MITARBEITER": "IN",
+        "POOL": 41,
+        "NAME": "Inselmann, Ingo",
+        "NEBENSTELLE": "137",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11935"
+    },
+    {
+        "MITARBEITER": "JG",
+        "POOL": 11,
+        "NAME": "Jaclyn Gieratz",
+        "NEBENSTELLE": "346",
+        "status": "beim Kunden",
+        "PERSONALNR": "14128"
+    },
+    {
+        "MITARBEITER": "JH",
+        "POOL": 11,
+        "NAME": "Heilandt, Jan",
+        "NEBENSTELLE": "466",
+        "status": "beim Kunden",
+        "PERSONALNR": "11081"
+    },
+    {
+        "MITARBEITER": "JK",
+        "POOL": 53,
+        "NAME": "Kappes, Jens",
+        "NEBENSTELLE": "329",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11350"
+    },
+    {
+        "MITARBEITER": "JM",
+        "POOL": 54,
+        "NAME": "Janssen, Malte",
+        "NEBENSTELLE": "140",
+        "status": "Urlaub",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14078"
+    },
+    {
+        "MITARBEITER": "JR",
+        "POOL": 41,
+        "NAME": "Jost, Roland",
+        "NEBENSTELLE": "138",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11185"
+    },
+    {
+        "MITARBEITER": "JW",
+        "POOL": 11,
+        "NAME": "Dr. Johannes Wildberg",
+        "NEBENSTELLE": "353",
+        "status": "Homeoffice",
+        "PERSONALNR": "13564"
+    },
+    {
+        "MITARBEITER": "KA",
+        "POOL": 51,
+        "NAME": "Kaup, Martin",
+        "NEBENSTELLE": "374",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11073"
+    },
+    {
+        "MITARBEITER": "KD",
+        "POOL": 41,
+        "NAME": "Kaddour, Anas",
+        "NEBENSTELLE": "139",
+        "status": "Urlaub",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11930"
+    },
+    {
+        "MITARBEITER": "KN",
+        "POOL": 53,
+        "NAME": "Knodel, Thomas",
+        "NEBENSTELLE": "712",
+        "status": "Homeoffice",
+        "PERSONALNR": "12001"
+    },
+    {
+        "MITARBEITER": "KP",
+        "POOL": 53,
+        "NAME": "Köngeter, Patrick",
+        "NEBENSTELLE": "319",
+        "status": "Homeoffice",
+        "PERSONALNR": "11980"
+    },
+    {
+        "MITARBEITER": "KU",
+        "POOL": 51,
+        "NAME": "Kuhlmann, Julia",
+        "NEBENSTELLE": "156",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11256"
+    },
+    {
+        "MITARBEITER": "MA",
+        "POOL": 53,
+        "NAME": "Malinowski, Mariusz",
+        "NEBENSTELLE": "312",
+        "status": "Homeoffice",
+        "PERSONALNR": "11254"
+    },
+    {
+        "MITARBEITER": "MC",
+        "POOL": 61,
+        "NAME": "Ernst, Manon",
+        "NEBENSTELLE": "484",
+        "status": "Urlaub",
+        "KOMMENTAR": "Altjahresurlaub (5 Std.)",
+        "PERSONALNR": "13300"
+    },
+    {
+        "MITARBEITER": "ME",
+        "POOL": 53,
+        "NAME": "Metz, Jens",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14210"
+    },
+    {
+        "MITARBEITER": "MG",
+        "POOL": 51,
+        "NAME": "Gkyzis, Gerasimos",
+        "NEBENSTELLE": "142",
+        "status": "Homeoffice",
+        "PERSONALNR": "14062"
+    },
+    {
+        "MITARBEITER": "NI",
+        "POOL": 11,
+        "NAME": "Nikolajczyk, Dierk",
+        "NEBENSTELLE": "355",
+        "status": "Homeoffice",
+        "PERSONALNR": "11275"
+    },
+    {
+        "MITARBEITER": "NK",
+        "POOL": 61,
+        "NAME": "Katanic-Öztürk, Natasa",
+        "NEBENSTELLE": "213",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14081"
+    },
+    {
+        "MITARBEITER": "NM",
+        "POOL": 11,
+        "NAME": "Nauendorf, Marko",
+        "NEBENSTELLE": "128",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11212"
+    },
+    {
+        "MITARBEITER": "OL",
+        "POOL": 51,
+        "NAME": "Lisowski, Oleg",
+        "NEBENSTELLE": "143",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "14563"
+    },
+    {
+        "MITARBEITER": "PG",
+        "POOL": 51,
+        "NAME": "Poggensee, Sven",
+        "NEBENSTELLE": "158",
+        "status": "Homeoffice",
+        "KOMMENTAR": "Seit 9:05",
+        "PERSONALNR": "11260"
+    },
+    {
+        "MITARBEITER": "PK",
+        "POOL": 51,
+        "NAME": "Khemalak, Phatsuda",
+        "NEBENSTELLE": "145",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14021"
+    },
+    {
+        "MITARBEITER": "RA",
+        "POOL": 11,
+        "NAME": "Rashid, Farhan",
+        "NEBENSTELLE": "147",
+        "status": "Urlaub",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11974"
+    },
+    {
+        "MITARBEITER": "RE",
+        "POOL": 54,
+        "NAME": "Alexander Resner",
+        "NEBENSTELLE": "310",
+        "status": "Homeoffice",
+        "PERSONALNR": "11258"
+    },
+    {
+        "MITARBEITER": "RK",
+        "POOL": 51,
+        "NAME": "Keppler, Rainer",
+        "NEBENSTELLE": "717",
+        "status": "Homeoffice",
+        "PERSONALNR": "12010"
+    },
+    {
+        "MITARBEITER": "RO",
+        "POOL": 52,
+        "NAME": "Rosacker, Uwe",
+        "NEBENSTELLE": "360",
+        "status": "wird erwartet",
+        "KOMMENTAR": "",
+        "PERSONALNR": "11054"
+    },
+    {
+        "MITARBEITER": "RS",
+        "POOL": 52,
+        "NAME": "Röhlen, Samuel",
+        "NEBENSTELLE": "131",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11982"
+    },
+    {
+        "MITARBEITER": "SB",
+        "POOL": 54,
+        "NAME": "Boehnke, Sebastian",
+        "status": "Krank",
+        "KOMMENTAR": "",
+        "PERSONALNR": "14095"
+    },
+    {
+        "MITARBEITER": "SC",
+        "POOL": 61,
+        "NAME": "Schuster, Michael",
+        "NEBENSTELLE": "238",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "13500"
+    },
+    {
+        "MITARBEITER": "SK",
+        "POOL": 11,
+        "NAME": "Koivisto, Simo-Pekka",
+        "NEBENSTELLE": "349",
+        "status": "beim Kunden",
+        "PERSONALNR": "11380"
+    },
+    {
+        "MITARBEITER": "ST",
+        "POOL": 61,
+        "NAME": "Strahl, Sebastian",
+        "NEBENSTELLE": "212",
+        "status": "Urlaub",
+        "KOMMENTAR": "Urlaubswünsche (XU01,11,15) (8 Std.)",
+        "PERSONALNR": "13305"
+    },
+    {
+        "MITARBEITER": "TH",
+        "POOL": 11,
+        "NAME": "Hansen, Torben",
+        "NEBENSTELLE": "351",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "13007"
+    },
+    {
+        "MITARBEITER": "TP",
+        "POOL": 54,
+        "NAME": "Tippmann, Martin",
+        "NEBENSTELLE": "316",
+        "status": "Homeoffice",
+        "PERSONALNR": "11175"
+    },
+    {
+        "MITARBEITER": "TS",
+        "POOL": 53,
+        "NAME": "Schwabe, Tobias",
+        "NEBENSTELLE": "363",
+        "status": "Homeoffice",
+        "PERSONALNR": "11970"
+    },
+    {
+        "MITARBEITER": "TV",
+        "POOL": 52,
+        "NAME": "Terekhin, Vladimir",
+        "NEBENSTELLE": "332",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11190"
+    },
+    {
+        "MITARBEITER": "TW",
+        "POOL": 53,
+        "NAME": "Twele, Jeremias",
+        "NEBENSTELLE": "328",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11955"
+    },
+    {
+        "MITARBEITER": "WN",
+        "POOL": 53,
+        "NAME": "Wiechmann, Kurt",
+        "NEBENSTELLE": "324",
+        "status": "im Hause (Hamburg)",
+        "PERSONALNR": "11074"
+    },
+    {
+        "MITARBEITER": "YW",
+        "POOL": 11,
+        "NAME": "Yannik Willuweit",
+        "NEBENSTELLE": "357",
+        "status": "beim Kunden",
+        "PERSONALNR": "14218"
+    }
+]

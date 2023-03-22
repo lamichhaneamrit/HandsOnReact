@@ -1,0 +1,492 @@
+[
+	
+	 
+    {
+        "mitarbeiter": "AL",
+        "pool": 54,
+        "name": "Lamichhane, Amrit",
+        "nebenstelle": "149",
+        "status": 4,
+        "zeit": "2023-03-16T16:41:04.990"
+    },
+    {
+        "mitarbeiter": "AS",
+        "pool": 11,
+        "name": "Smolenski, Alexander",
+        "nebenstelle": "348",
+        "status": 7,
+        "zeit": "2023-03-16T18:24:38.450"
+    },
+    {
+        "mitarbeiter": "BG",
+        "pool": 53,
+        "name": "Graf-Netzbandt, Benjamin",
+        "nebenstelle": "322",
+        "status": 8,
+        "kommentar": "",
+        "zeit": "2023-03-16T06:49:40.320"
+    },
+    {
+        "mitarbeiter": "BO",
+        "pool": 51,
+        "name": "Hansen, Boie",
+        "nebenstelle": "225",
+        "status": 7,
+        "kommentar": "Standortwechsel, nachher wieder aktiv",
+        "zeit": "2023-03-16T17:02:18.040"
+    },
+    {
+        "mitarbeiter": "BS",
+        "pool": 11,
+        "name": "Sterl, Björn",
+        "nebenstelle": "356",
+        "status": 7,
+        "kommentar": "bis evtl. Rückmeldung aus ETA",
+        "zeit": "2023-03-16T18:16:47.570"
+    },
+    {
+        "mitarbeiter": "BT",
+        "pool": 53,
+        "name": "Blanke, Tobias",
+        "nebenstelle": "318",
+        "status": 4,
+        "zeit": "2023-03-16T17:02:16.560"
+    },
+    {
+        "mitarbeiter": "BW",
+        "pool": 53,
+        "name": "Wiech, Benjamin",
+        "nebenstelle": "153",
+        "status": 13,
+        "zeit": "2023-03-16T11:23:57.880"
+    },
+    {
+        "mitarbeiter": "CG",
+        "pool": 53,
+        "name": "Gebert, Carsten",
+        "nebenstelle": "152",
+        "status": 4,
+        "zeit": "2023-03-16T15:49:15.270"
+    },
+    {
+        "mitarbeiter": "DK",
+        "pool": 54,
+        "name": "Kulbach, Daniel",
+        "nebenstelle": "308",
+        "status": 8,
+        "kommentar": "",
+        "zeit": "2023-03-16T06:49:40.320"
+    },
+    {
+        "mitarbeiter": "DN",
+        "pool": 11,
+        "name": "David Neumann",
+        "nebenstelle": "354",
+        "status": 9,
+        "zeit": "2023-03-16T08:01:04.350"
+    },
+    {
+        "mitarbeiter": "DO",
+        "pool": 53,
+        "name": "Dogdu, Serkan",
+        "nebenstelle": "144",
+        "status": 4,
+        "zeit": "2023-03-16T16:25:37.650"
+    },
+    {
+        "mitarbeiter": "ER",
+        "pool": 53,
+        "name": "Ramazanoglu, Enis",
+        "nebenstelle": "334",
+        "status": 4,
+        "zeit": "2023-03-16T15:59:06.480"
+    },
+    {
+        "mitarbeiter": "FI",
+        "pool": 52,
+        "name": "Fintzen, Ingo",
+        "nebenstelle": "344",
+        "status": 4,
+        "zeit": "2023-03-16T17:04:11.650"
+    },
+    {
+        "mitarbeiter": "FR",
+        "pool": 51,
+        "name": "Fischer, Andreas",
+        "nebenstelle": "304",
+        "status": 4,
+        "zeit": "2023-03-16T16:09:28.770"
+    },
+    {
+        "mitarbeiter": "GR",
+        "pool": 54,
+        "name": "Grupen, Claudius",
+        "nebenstelle": "311",
+        "status": 4,
+        "zeit": "2023-03-16T20:06:15.690"
+    },
+    {
+        "mitarbeiter": "GW",
+        "pool": 51,
+        "name": "Grawunder, Udo",
+        "status": 1,
+        "kommentar": "",
+        "zeit": "2023-03-16T08:36:55.550"
+    },
+    {
+        "mitarbeiter": "HA",
+        "pool": 11,
+        "name": "Haupt, Benno",
+        "nebenstelle": "148",
+        "status": 4,
+        "zeit": "2023-03-16T17:14:19.210"
+    },
+    {
+        "mitarbeiter": "HE",
+        "pool": 11,
+        "name": "Hennig, Christian",
+        "nebenstelle": "313",
+        "status": 4,
+        "zeit": "2023-03-16T17:26:49.950"
+    },
+    {
+        "mitarbeiter": "HG",
+        "pool": 53,
+        "name": "Hengst, Egbert",
+        "nebenstelle": "372",
+        "status": 4,
+        "zeit": "2023-03-16T16:34:35.530"
+    },
+    {
+        "mitarbeiter": "HL",
+        "pool": 41,
+        "name": "Lübcke, Helge",
+        "nebenstelle": "104",
+        "status": 4,
+        "zeit": "2023-03-16T17:19:47.440"
+    },
+    {
+        "mitarbeiter": "HN",
+        "pool": 61,
+        "name": "Hansen, Peter",
+        "nebenstelle": "224",
+        "status": 1,
+        "kommentar": "",
+        "zeit": "2023-03-16T08:27:23.200"
+    },
+    {
+        "mitarbeiter": "HO",
+        "pool": 61,
+        "name": "Hansen, Maria",
+        "nebenstelle": "260",
+        "status": 4,
+        "zeit": "2023-03-16T17:58:54.470"
+    },
+    {
+        "mitarbeiter": "IN",
+        "pool": 41,
+        "name": "Inselmann, Ingo",
+        "nebenstelle": "137",
+        "status": 4,
+        "zeit": "2023-03-16T16:04:01.180"
+    },
+    {
+        "mitarbeiter": "JG",
+        "pool": 11,
+        "name": "Jaclyn Gieratz",
+        "nebenstelle": "346",
+        "status": 9,
+        "zeit": "2023-03-16T08:00:57.910"
+    },
+    {
+        "mitarbeiter": "JH",
+        "pool": 11,
+        "name": "Heilandt, Jan",
+        "nebenstelle": "466",
+        "status": 9,
+        "zeit": "2023-03-16T08:01:11.070"
+    },
+    {
+        "mitarbeiter": "JK",
+        "pool": 53,
+        "name": "Kappes, Jens",
+        "nebenstelle": "329",
+        "status": 4,
+        "zeit": "2023-03-16T15:55:32.530"
+    },
+    {
+        "mitarbeiter": "JM",
+        "pool": 54,
+        "name": "Janssen, Malte",
+        "nebenstelle": "140",
+        "status": 4,
+        "zeit": "2023-03-16T14:56:04.150"
+    },
+    {
+        "mitarbeiter": "JR",
+        "pool": 41,
+        "name": "Jost, Roland",
+        "nebenstelle": "138",
+        "status": 4,
+        "zeit": "2023-03-16T16:42:13.970"
+    },
+    {
+        "mitarbeiter": "JW",
+        "pool": 11,
+        "name": "Dr. Johannes Wildberg",
+        "nebenstelle": "353",
+        "status": 4,
+        "zeit": "2023-03-16T16:00:14.140"
+    },
+    {
+        "mitarbeiter": "KA",
+        "pool": 51,
+        "name": "Kaup, Martin",
+        "nebenstelle": "374",
+        "status": 4,
+        "zeit": "2023-03-16T16:51:15.590"
+    },
+    {
+        "mitarbeiter": "KD",
+        "pool": 41,
+        "name": "Kaddour, Anas",
+        "nebenstelle": "139",
+        "status": 6,
+        "kommentar": "",
+        "zeit": "2023-03-16T06:49:40.307"
+    },
+    {
+        "mitarbeiter": "KN",
+        "pool": 53,
+        "name": "Knodel, Thomas",
+        "nebenstelle": "712",
+        "status": 4,
+        "zeit": "2023-03-16T18:28:49.230"
+    },
+    {
+        "mitarbeiter": "KP",
+        "pool": 53,
+        "name": "Köngeter, Patrick",
+        "nebenstelle": "319",
+        "status": 4,
+        "zeit": "2023-03-16T20:12:08.130"
+    },
+    {
+        "mitarbeiter": "KU",
+        "pool": 51,
+        "name": "Kuhlmann, Julia",
+        "nebenstelle": "156",
+        "status": 4,
+        "zeit": "2023-03-16T16:23:17.540"
+    },
+    {
+        "mitarbeiter": "MA",
+        "pool": 53,
+        "name": "Malinowski, Mariusz",
+        "nebenstelle": "312",
+        "status": 4,
+        "zeit": "2023-03-16T16:10:46.380"
+    },
+    {
+        "mitarbeiter": "MC",
+        "pool": 61,
+        "name": "Ernst, Manon",
+        "nebenstelle": "484",
+        "status": 6,
+        "kommentar": "Altjahresurlaub (5 Std.)",
+        "zeit": "2023-03-16T08:36:55.650"
+    },
+    {
+        "mitarbeiter": "ME",
+        "pool": 53,
+        "name": "Metz, Jens",
+        "status": 1,
+        "kommentar": "",
+        "zeit": "2023-03-16T08:36:55.670"
+    },
+    {
+        "mitarbeiter": "MG",
+        "pool": 51,
+        "name": "Gkyzis, Gerasimos",
+        "nebenstelle": "142",
+        "status": 4,
+        "zeit": "2023-03-16T16:33:49.750"
+    },
+    {
+        "mitarbeiter": "NI",
+        "pool": 11,
+        "name": "Nikolajczyk, Dierk",
+        "nebenstelle": "355",
+        "status": 4,
+        "zeit": "2023-03-16T17:10:56.090"
+    },
+    {
+        "mitarbeiter": "NK",
+        "pool": 61,
+        "name": "Katanic-Öztürk, Natasa",
+        "nebenstelle": "213",
+        "status": 4,
+        "zeit": "2023-03-16T16:55:12.010"
+    },
+    {
+        "mitarbeiter": "NM",
+        "pool": 11,
+        "name": "Nauendorf, Marko",
+        "nebenstelle": "128",
+        "status": 4,
+        "zeit": "2023-03-16T17:51:16.820"
+    },
+    {
+        "mitarbeiter": "OL",
+        "pool": 51,
+        "name": "Lisowski, Oleg",
+        "nebenstelle": "143",
+        "status": 4,
+        "zeit": "2023-03-16T18:18:26.310"
+    },
+    {
+        "mitarbeiter": "PG",
+        "pool": 51,
+        "name": "Poggensee, Sven",
+        "nebenstelle": "158",
+        "status": 4,
+        "zeit": "2023-03-16T17:37:39.770"
+    },
+    {
+        "mitarbeiter": "PK",
+        "pool": 51,
+        "name": "Khemalak, Phatsuda",
+        "nebenstelle": "145",
+        "status": 4,
+        "zeit": "2023-03-16T17:03:31.010"
+    },
+    {
+        "mitarbeiter": "RA",
+        "pool": 11,
+        "name": "Rashid, Farhan",
+        "nebenstelle": "147",
+        "status": 2,
+        "zeit": "2023-03-16T12:48:04.300"
+    },
+    {
+        "mitarbeiter": "RE",
+        "pool": 54,
+        "name": "Alexander Resner",
+        "nebenstelle": "310",
+        "status": 4,
+        "zeit": "2023-03-16T19:33:35.330"
+    },
+    {
+        "mitarbeiter": "RK",
+        "pool": 51,
+        "name": "Keppler, Rainer",
+        "nebenstelle": "717",
+        "status": 4,
+        "zeit": "2023-03-16T17:01:26.340"
+    },
+    {
+        "mitarbeiter": "RO",
+        "pool": 52,
+        "name": "Rosacker, Uwe",
+        "nebenstelle": "360",
+        "status": 4,
+        "zeit": "2023-03-16T17:11:30.760"
+    },
+    {
+        "mitarbeiter": "RS",
+        "pool": 52,
+        "name": "Röhlen, Samuel",
+        "nebenstelle": "131",
+        "status": 4,
+        "zeit": "2023-03-16T17:09:49.800"
+    },
+    {
+        "mitarbeiter": "SB",
+        "pool": 54,
+        "name": "Boehnke, Sebastian",
+        "nebenstelle": "151",
+        "status": 8,
+        "kommentar": "",
+        "zeit": "2023-03-16T06:49:40.320"
+    },
+    {
+        "mitarbeiter": "SC",
+        "pool": 61,
+        "name": "Schuster, Michael",
+        "nebenstelle": "238",
+        "status": 4,
+        "zeit": "2023-03-16T16:51:05.480"
+    },
+    {
+        "mitarbeiter": "SK",
+        "pool": 11,
+        "name": "Koivisto, Simo-Pekka",
+        "nebenstelle": "349",
+        "status": 4,
+        "zeit": "2023-03-16T20:00:29.520"
+    },
+    {
+        "mitarbeiter": "ST",
+        "pool": 61,
+        "name": "Strahl, Sebastian",
+        "nebenstelle": "212",
+        "status": 4,
+        "zeit": "2023-03-16T16:20:00.500"
+    },
+    {
+        "mitarbeiter": "TH",
+        "pool": 11,
+        "name": "Hansen, Torben",
+        "nebenstelle": "351",
+        "status": 4,
+        "zeit": "2023-03-16T17:14:28.320"
+    },
+    {
+        "mitarbeiter": "TP",
+        "pool": 54,
+        "name": "Tippmann, Martin",
+        "nebenstelle": "316",
+        "status": 13,
+        "zeit": "2023-03-16T14:08:23.330"
+    },
+    {
+        "mitarbeiter": "TS",
+        "pool": 53,
+        "name": "Schwabe, Tobias",
+        "nebenstelle": "363",
+        "status": 4,
+        "zeit": "2023-03-16T15:59:38.730"
+    },
+    {
+        "mitarbeiter": "TV",
+        "pool": 52,
+        "name": "Terekhin, Vladimir",
+        "nebenstelle": "332",
+        "status": 4,
+        "zeit": "2023-03-16T17:51:13.560"
+    },
+    {
+        "mitarbeiter": "TW",
+        "pool": 53,
+        "name": "Twele, Jeremias",
+        "nebenstelle": "328",
+        "status": 4,
+        "zeit": "2023-03-16T18:24:19.700"
+    },
+    {
+        "mitarbeiter": "WN",
+        "pool": 53,
+        "name": "Wiechmann, Kurt",
+        "nebenstelle": "324",
+        "status": 4,
+        "zeit": "2023-03-16T17:10:08.240"
+    },
+    {
+        "mitarbeiter": "YW",
+        "pool": 11,
+        "name": "Yannik Willuweit",
+        "nebenstelle": "357",
+        "status": 9,
+        "zeit": "2023-03-16T13:01:25.670"
+    }
+]
